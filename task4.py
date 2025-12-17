@@ -22,20 +22,20 @@ print(f"Total pets: {total_pets}")
 # Snippet 4:
 is_sunny = True
 if is_sunny:
-message = "Wear sunglasses"
-print(message)
+    message = "Wear sunglasses"
+    print(message)
 
 
 # Snippet 5:
 distance = 50
 time = 2
 speed = distance / time
-print(f"Speed: {speed} mph"
+print(f"Speed: {speed} mph")
 
 
 # Snippet 6:
 level = 5
-if level = 5
+if level == 5:
     print("You reached level 5!")
 
 
@@ -48,7 +48,7 @@ print(f"Area: {area}")
 
 # Snippet 8:
 name = "Sarah"
-print(f"Hello", {name})
+print("Hello", name)
 
 
 # Snippet 9:
@@ -61,4 +61,4 @@ else:
 
 # Snippet 10:
 age = 15
-print(f"I am {age} years old)
+print(f"I am {age} years old")
